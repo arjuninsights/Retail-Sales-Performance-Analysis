@@ -149,7 +149,7 @@ An interactive Power BI dashboard created to analyze sales, profit, orders, cust
 
 ## Dashboard Preview
 
-![Sales and Profit Analysis Dashboard](Screenshot-43.jpg)
+![Sales and Profit Analysis Dashboard](Overview.png)
 
 ## Project Overview
 
